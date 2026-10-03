@@ -15,5 +15,14 @@
     "sourceURL" : "https://kandipad.com",
     "title" : "Waving Kitty",
     "animation" : "server_002.gif"
+  },
+  {
+    "category" : "Minecraft",
+    "creator" : "ColorByNumbers",
+    "file" : "server_003.png",
+    "license" : "Original artwork",
+    "sourceURL" : "https://kandipad.com",
+    "title" : "Creeper Boom",
+    "animation" : "server_003.gif"
   }
 ]
