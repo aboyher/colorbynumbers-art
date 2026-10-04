@@ -400,5 +400,13 @@
     "license" : "CC0",
     "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
     "title" : "Desert Tree"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "ColorByNumbers",
+    "file" : "server_052.png",
+    "license" : "Original artwork",
+    "sourceURL" : "https://kandipad.com",
+    "title" : "Twilight Tree"
   }
 ]
