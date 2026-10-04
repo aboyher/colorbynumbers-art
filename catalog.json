@@ -24,5 +24,381 @@
     "sourceURL" : "https://kandipad.com",
     "title" : "Creeper Kaboom",
     "animation" : "server_004.gif"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_005.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Sailboat Bay"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_006.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Sailboat Bay (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_007.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Cactus Desert"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_008.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Cactus Desert (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_009.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Misty Forest"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_010.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Misty Forest (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_011.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Jungle River"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_012.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Jungle River (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_013.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Old Town"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_014.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Old Town (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_015.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Harbor Town"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_016.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Harbor Town (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_017.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Snowy Village"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_018.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Snowy Village (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_019.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Alpine Valley"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_020.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Alpine Valley (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_021.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Rolling Meadow"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_022.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Rolling Meadow (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_023.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Winter Pines"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_024.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Winter Pines (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_025.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Quiet Swamp"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_026.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Quiet Swamp (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_027.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Volcano at Dusk"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Quantum Quasar Studio",
+    "file" : "server_028.png",
+    "license" : "Free asset (Quantum Quasar Studio license)",
+    "sourceURL" : "https://quantum-quasar-studio.itch.io/pixel-art-landscapes",
+    "title" : "Volcano at Dusk (Bright)"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Free Game Assets",
+    "file" : "server_029.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://free-game-assets.itch.io/free-nature-pixel-backgrounds-for-games",
+    "title" : "Purple Peaks"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Free Game Assets",
+    "file" : "server_030.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://free-game-assets.itch.io/free-nature-pixel-backgrounds-for-games",
+    "title" : "Snowcapped Summit"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Free Game Assets",
+    "file" : "server_031.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://free-game-assets.itch.io/free-nature-pixel-backgrounds-for-games",
+    "title" : "Red Rock Butte"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Free Game Assets",
+    "file" : "server_032.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://free-game-assets.itch.io/free-nature-pixel-backgrounds-for-games",
+    "title" : "Sunflower Field"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_033.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Sand Dunes"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_034.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Open Road"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_035.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Lakeside Morning"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_036.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Glacier Lake"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_037.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Mirror Lake"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_038.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Alpine Oasis"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_039.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Rocky Peak"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_040.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Northern Lights"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_041.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Pink Sky Mountains"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Jeruu",
+    "file" : "server_042.png",
+    "license" : "CC0",
+    "sourceURL" : "https://jeruu.itch.io/10-pixel-art-landscape",
+    "title" : "Starry Snowfield"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Life in pixels",
+    "file" : "server_043.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://life-in-pixels.itch.io/sunset-2d-pixel-art-background",
+    "title" : "Lake Sunset"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Spectrecz",
+    "file" : "server_044.png",
+    "license" : "Free asset",
+    "sourceURL" : "https://spectrecz.itch.io/landscape-backround-pixel-art",
+    "title" : "Foggy Forest"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_045.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Puffy Clouds"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_046.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Sunlit Woods"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_047.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Moonlit Range"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_048.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Beach Cove"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_049.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Cave Entrance"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_050.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Inside the Cave"
+  },
+  {
+    "category" : "Scenery",
+    "creator" : "Stealthix",
+    "file" : "server_051.png",
+    "license" : "CC0",
+    "sourceURL" : "https://stealthix.itch.io/various-backgrounds",
+    "title" : "Desert Tree"
   }
 ]
