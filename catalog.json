@@ -408,5 +408,13 @@
     "license" : "Original artwork",
     "sourceURL" : "https://kandipad.com",
     "title" : "Twilight Tree"
+  },
+  {
+    "category" : "Cats",
+    "creator" : "Unknown",
+    "file" : "server_053.png",
+    "license" : "Unknown",
+    "sourceURL" : "https://kandipad.com",
+    "title" : "Autumn Cat"
   }
 ]
